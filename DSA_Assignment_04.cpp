@@ -6,7 +6,9 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
-/*Consider telephone book database of N client . Make use of a hash table implementation to quickly look up client‘s telephone number. Make use of two collision handling techniques and compare them using number of comparisons required to find a set of telephone numbers (use linear probing with replacement and without replacement)
+/*Consider telephone book database of N client . Make use of a hash table implementation to quickly look up client‘s telephone number. Make use of two collision 
+handling techniques and compare them using number of comparisons required to find a set of telephone numbers (use linear probing 
+with replacement and without replacement)
  */
 #include <bits/stdc++.h>
 #include <iostream>
